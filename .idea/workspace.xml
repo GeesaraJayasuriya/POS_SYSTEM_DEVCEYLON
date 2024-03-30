@@ -1,14 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="a7cc595f-26e9-4e14-a24b-3f3d304313d8" name="Changes" comment="" />
+    <list default="true" id="a7cc595f-26e9-4e14-a24b-3f3d304313d8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/jfonix.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/jfonix/jfoenix-8.0.7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dev_ceylon/pos_system/views/LoginForm.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/jfoenix_8_0_7.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/POS_SYSTEM_DEVCEYLON.iml" beforeDir="false" afterPath="$PROJECT_DIR$/POS_SYSTEM_DEVCEYLON.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AppInitializer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AppInitializer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/POS-feature.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dev_ceylon/pos_system/assets/POS-feature.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/smart-pos-software-logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dev_ceylon/pos_system/assets/smart-pos-software-logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/dev_ceylon/pos_system/controllers/LoginFormController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dev_ceylon/pos_system/controllers/LoginFormController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/LoginForm.fxml" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2ePZc5Iu4LEPr3jCb01JhDqHdtV" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -19,9 +45,20 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/geeya/intelij_java/app1",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\geeya\intelij_java\POS_SYSTEM_DEVCEYLON\src\com\dev_ceylon\pos_system\assets" />
+      <recent name="C:\Users\geeya\intelij_java\POS_SYSTEM_DEVCEYLON\lib\jfonix" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">

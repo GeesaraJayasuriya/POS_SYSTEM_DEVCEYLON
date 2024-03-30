@@ -1,4 +1,4 @@
-package controllers;
+package com.dev_ceylon.pos_system.controllers;
 
 import javafx.event.ActionEvent;
 
