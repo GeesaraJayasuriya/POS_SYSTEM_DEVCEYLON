@@ -29,6 +29,6 @@ public class User implements  SuperEntity{
 
     @ManyToOne
     @JoinColumn(name = "role_id")
-    private Set<UserRole> userRoles;
+    private UserRole userRoles;
 
 }
